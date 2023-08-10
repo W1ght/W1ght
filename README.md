@@ -1,4 +1,4 @@
 ### Hi there, I'm Wight👋<hr/>
-* 🚀 JAVA/JS
-* 🦄 二次元
-* 🗺️ 广州
+* 🚀 Major：JAVA/JS
+* 🦄 hobbies:二次元
+* 🗺️ location:广州/江门
